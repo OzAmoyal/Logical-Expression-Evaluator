@@ -91,3 +91,9 @@ git clone https://github.com/OzAmoyal/Logical-Expression-Evaluator.git
 ```
 ant run
 ```
+
+### Author 
+**Oz Amoyal**
+- [Profile](https://github.com/OzAmoyal)
+- [Email](mailto:uziamoyal@gmail.com?subject=Hi)
+- [LinkedIn](https://www.linkedin.com/in/ozamoyal/)
