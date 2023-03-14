@@ -87,7 +87,7 @@ To use this program, you will need to have a Java Development Kit (JDK) installe
 ``` 
 git clone https://github.com/OzAmoyal/Logical-Expression-Evaluator.git
 ```
-2. In order to compile and run i use Apache Ant, please download it from (here)[https://ant.apache.org/bindownload.cgi] and then open your terminal in the folder of the cloned project and insert:
+2. In order to compile and run i use Apache Ant, please download it from [here](https://ant.apache.org/bindownload.cgi) and then open your terminal in the folder of the cloned project and insert:
 ```
 ant run
 ```
